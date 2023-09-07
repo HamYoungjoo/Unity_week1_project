@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 7ae57aff105ff43b9afb4c69ef298f13
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 177
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Floor tiles2 \u1107\u1169\u11A8\u1109\u1161\u1107\u1169\u11AB_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 355.3333
+        width: 178.33333
+        height: 177.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8b15f211baa4681b1325225519a3eb
+      internalID: -738395200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Floor tiles2 \u1107\u1169\u11A8\u1109\u1161\u1107\u1169\u11AB_1"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 355.3333
+        width: 178.33333
+        height: 177.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce09c8b8d3fb4fcd8a7093c13f64617
+      internalID: -992866008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Floor tiles2 \u1107\u1169\u11A8\u1109\u1161\u1107\u1169\u11AB_2"
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 355.3333
+        width: 178.33333
+        height: 177.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe217fe4e868b4a4cac84004a64edb54
+      internalID: -995041333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Floor tiles2 \u1107\u1169\u11A8\u1109\u1161\u1107\u1169\u11AB_3"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178.33333
+        width: 178.33333
+        height: 177.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1a57c6551ae4840a10d32e131fd0f1
+      internalID: -1544108801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Floor tiles2 \u1107\u1169\u11A8\u1109\u1161\u1107\u1169\u11AB_4"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 178.33333
+        width: 178.33333
+        height: 177.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e65bacf6955f40aeb862d218c230790
+      internalID: -586270062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Floor tiles2 \u1107\u1169\u11A8\u1109\u1161\u1107\u1169\u11AB_5"
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 178.33333
+        width: 178.33333
+        height: 177.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66e14b6591c34a4e87f99c940b7875d
+      internalID: -1495015781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Floor tiles2 \u1107\u1169\u11A8\u1109\u1161\u1107\u1169\u11AB_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333282
+        width: 178.33333
+        height: 177.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d04e6a3e5a7041088de4926939b5551
+      internalID: 759415519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Floor tiles2 \u1107\u1169\u11A8\u1109\u1161\u1107\u1169\u11AB_7"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1.3333282
+        width: 178.33333
+        height: 177.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae72e4cbf24440b795d55cd34f374e9
+      internalID: -671854293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Floor tiles2 \u1107\u1169\u11A8\u1109\u1161\u1107\u1169\u11AB_8"
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1.3333282
+        width: 178.33333
+        height: 177.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ec8d0586d154b68957f057720395f3
+      internalID: 1792789477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Floor tiles2 \u1107\u1169\u11A8\u1109\u1161\u1107\u1169\u11AB_0": -738395200
+      "Floor tiles2 \u1107\u1169\u11A8\u1109\u1161\u1107\u1169\u11AB_1": -992866008
+      "Floor tiles2 \u1107\u1169\u11A8\u1109\u1161\u1107\u1169\u11AB_2": -995041333
+      "Floor tiles2 \u1107\u1169\u11A8\u1109\u1161\u1107\u1169\u11AB_3": -1544108801
+      "Floor tiles2 \u1107\u1169\u11A8\u1109\u1161\u1107\u1169\u11AB_4": -586270062
+      "Floor tiles2 \u1107\u1169\u11A8\u1109\u1161\u1107\u1169\u11AB_5": -1495015781
+      "Floor tiles2 \u1107\u1169\u11A8\u1109\u1161\u1107\u1169\u11AB_6": 759415519
+      "Floor tiles2 \u1107\u1169\u11A8\u1109\u1161\u1107\u1169\u11AB_7": -671854293
+      "Floor tiles2 \u1107\u1169\u11A8\u1109\u1161\u1107\u1169\u11AB_8": 1792789477
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
