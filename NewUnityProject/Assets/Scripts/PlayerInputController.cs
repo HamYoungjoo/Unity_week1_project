@@ -13,26 +13,26 @@ public class PlayerInputController : TopDownCharacterController
 
     private void Awake()
     {
-        _camera = Camera.main; // main 부분을 바꾸면 카메라 설정이 가능한가? 확인 해보기 
+        _camera = Camera.main; 
     }
 
     public void OnMove(InputValue value)
     {
-        Vector2 moveInput = value.Get<Vector2>().normalized; // nomalrize & nomalized차이와 정확한 의미
+        Vector2 moveInput = value.Get<Vector2>().normalized; // nomalrize & nomalized차이와 정확한 의미 찾아 보기 
         CallMoveEvent(moveInput);
     }
 
-    public void OnLook(InputValue value)
-    {
-        Vector2 newAim = value.Get<Vector2>();
-        Vector2 wolrdPos = _camera.ScreenToWorldPoint(newAim);
-        newAim = (wolrdPos - (Vector2)transform.position).normalized;
+    //public void OnLook(InputValue value)
+    //{
+    //    Vector2 newAim = value.Get<Vector2>();
+    //    Vector2 wolrdPos = _camera.ScreenToWorldPoint(newAim);
+    //    newAim = (wolrdPos - (Vector2)transform.position).normalized;
 
-        if (newAim.magnitude >= .9f) // magnitude가 뭔지 찾아보기 
-        {
-            CallLookEvent(newAim);
-        }
-    }
+    //    if (newAim.magnitude >= .9f) // magnitude가 뭔지 찾아보기 
+    //    {
+    //        CallLookEvent(newAim);
+    //    }
+    //} // 지금 사용 안함
 
     private void Update()
     {
